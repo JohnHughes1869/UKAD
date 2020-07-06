@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5B0FAB11-A067-46E1-B089-534AB85DFB57}|Default">
+  <MonoDevelop.Ide.ItemProperties.SiteMap PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SiteMap/AppContext.cs">
+    <Files>
+      <File FileName="SiteMap/AppContext.cs" Line="14" Column="1" />
+      <File FileName="SiteMap/Controllers/HomeController.cs" />
+      <File FileName="SiteMap/Repo/Repository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UKADTest" expanded="True">
+            <Node name="SiteMap" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Repo" expanded="True" />
+              <Node name="AppContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
